@@ -1,5 +1,7 @@
 yolov5
 
+out/*
+
 .env
 
 __pycache__
